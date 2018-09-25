@@ -1,3 +1,6 @@
+**Not:** Yüklenen tüm dosyaları indirmek için  Clone or download butonuna tıklayıp Download ZIP'i seçebilirsiniz.
+Sadece bir dosyayı indirmek için sağ tıklayıp farklı kaydeti seçebilirsiniz.
+
 # SDÜ - ISUBU
 ## Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
 ### 2018-2019 Güz Dönemi EEM251 **İleri Düzey Programlama** Dersi
