@@ -1,0 +1,32 @@
+(Bu komutları yazdığınızda eem251_ders01.ipynb dosyasındaki sonuçları göreceksiniz.)
+
+Hüzre Markdown modunda iken notlarımızı alabiliriz.
+
+# Bu dersimizde Python programlama dilini göreceğiz
+## Daha kucuk başlık
+###### En kucuk başlık
+
+**kalın** *italik* ~~üzeri çizili~~ yazılar **_yazabiliriz_**.
+
+Matematik denklemleri LaTeX doküman düzenleme sisteminde olduğu gibi yazılabilir.
+
+$E_0 = mc^2$
+
+$E = \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}$
+
+denklemlerde Yunan harfleri de kullanılabilir.
+$\alpha^2 \times \sqrt{\beta}\times \psi$
+
+
+Listeleme
+* birinci
+* ikinci
+  * iki a
+  * iki b
+    * iki a 1
+    
+    
+Alıntı için
+> 10 tür insan vardır, ikilik sistemi bilen ve bilmeyen.
+
+Başka sitelere link vermek için: [Ders ile ilgili dokümanlar](https://github.com/asenturk/eem251)
