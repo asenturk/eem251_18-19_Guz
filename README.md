@@ -2,7 +2,14 @@
 ### Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
 #### 2018-2019 Güz Dönemi EEM251 **İleri Düzey Programlama** Dersi
 
-**Not:** Yüklenen tüm dosyaları indirmek için  Clone or download butonuna tıklayıp Download ZIP'i seçebilirsiniz.
+Proje Konuları (24.10.2018):
+- Spcaesniffer benzeri program: http://www.uderzo.it/main_products/space_sniffer/
+- Renamer benzeri program: https://www.den4b.com/products/renamer
+- Locate32 benzeri program yazımı: https://locate32.cogit.net/
+- Clipdiary benzeri program: http://clipdiary.com/
+
+---
+**Not** Yüklenen tüm dosyaları indirmek için  Clone or download butonuna tıklayıp Download ZIP'i seçebilirsiniz.
 Sadece bir dosyayı indirmek için sağ tıklayıp farklı kaydeti seçebilirsiniz.
 
 ---
