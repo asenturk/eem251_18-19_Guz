@@ -13,18 +13,19 @@ Proje Konuları (24.10.2018):
 Sadece bir dosyayı indirmek için sağ tıklayıp farklı kaydeti seçebilirsiniz.
 
 ---
+#### Python
 - Derste [Python](https://www.python.org/) Programlama dili öğretilecektir. [Dökümantasyon](https://docs.python.org/3/index.html) ve [Giriş seviyesi Örnekler](https://docs.python.org/3/tutorial/introduction.html)i kontrol edebilirsiniz.
 - Python [Tiobe index](https://www.tiobe.com/tiobe-index/)ine göre Eylül 2018 tarihinde en popüler 3. programlama olarak gösterilmektedir.
 - Pek çok alanda hızlı bir şekilde programlama yapmaya olanak sağlayan Python dili ayrıca [Raspberry Pi](https://www.raspberrypi.org/) sistemleri tarafından da desteklendiği için Elektronik Mühendislerini doğrudan ilgilendirmektedir.
 ---
-### Jupyter
+#### Jupyter
 - Programları yazmak için [Anaconda Platformu](https://www.anaconda.com/)nu kullanacağız. İndirmek sayfası için [tıklayınız](https://www.anaconda.com/download/).3.6 versiyonu ve bigisayarınızın 64-bit veya 32-bit olmasına göre uygun kurulum dosyaınız indirin lütfen.
 - Programı kurduktan sonra Anaconda Navigator'dan Jupyter Notebook açmanız gerekiyor.
 - Eğer kurarken gerekli ortam değişkenleri doğru bir şekilde ayarlanmışsa, Win+R tuş kombinasyonu ile açılan pencereye jupyter notebook yazarak Jupyter programını çalıştırabilirsiniz.
 - Sağ üst köşeden New -> Python 3 Notbooku oluşturabiliriz.
 - Herhangi bir hücreyi çalıştırmak için Ctrl+Enter veya Shift+Enter tuş kombinasyonu kullanılabilir
 ---
-### Jupyter Markdown
+#### Jupyter Markdown
 - Markdown özelliği not tutmak, yapmış olduğunuz programlamayı açıklamak için faydalı bir araçtır. Markdown'da yazım kurallarını aşağıdaki dokümanlardan yararlanabilirsiniz:
   - https://help.github.com/articles/basic-writing-and-formatting-syntax/
   - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
