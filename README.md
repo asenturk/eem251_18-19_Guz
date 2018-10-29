@@ -9,7 +9,7 @@ Proje Konuları (24.10.2018):
 - Clipdiary benzeri program: http://clipdiary.com/
 
 ---
-**Not** Yüklenen tüm dosyaları indirmek için  Clone or download butonuna tıklayıp Download ZIP'i seçebilirsiniz.
+**Not** Yüklenen tüm dosyaları indirmek için  sağ üst tarafta bulunan yeşil renkli "Clone or download" butonuna tıklayıp "Download ZIP"i seçebilirsiniz.   
 Sadece bir dosyayı indirmek için sağ tıklayıp farklı kaydeti seçebilirsiniz.
 
 ---
