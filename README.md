@@ -1,7 +1,7 @@
 **Önemli:** (06.11.2018)   
 7 Aralık Cuma proje konularını belirlemek için son tarihtir. Bu tarihten sonra proje kabul edilmeyecektir.   
 
-2. Öğretim proje sunum tarihleri: 12-19-26 Aralık
+1. Öğretim proje sunum tarihleri: 12-19-26 Aralık
 2. Öğretim proje sunum tarihleri: 17-24-31 Aralık
 
 ---
