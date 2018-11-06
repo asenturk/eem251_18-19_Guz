@@ -3,15 +3,19 @@
 2. Öğretim proje sunum tarihleri: 12-19-26 Aralık
 2. Öğretim proje sunum tarihleri: 17-24-31 Aralık
 
-## SDÜ - ISUBU
-### Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
-#### 2018-2019 Güz Dönemi EEM251 **İleri Düzey Programlama** Dersi
-
-Proje Konuları (24.10.2018):
+---
+Örnek Proje Konuları (24.10.2018):
 - Spacesniffer benzeri program: http://www.uderzo.it/main_products/space_sniffer/
 - Renamer benzeri program: https://www.den4b.com/products/renamer
 - Locate32 benzeri program yazımı: https://locate32.cogit.net/
 - Clipdiary benzeri program: http://clipdiary.com/
+
+---
+### SDÜ - ISUBU
+#### Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
+#### 2018-2019 Güz Dönemi EEM251 **İleri Düzey Programlama** Dersi
+
+
 
 ---
 **Not** Yüklenen tüm dosyaları indirmek için  sağ üst tarafta bulunan yeşil renkli "Clone or download" butonuna tıklayıp "Download ZIP"i seçebilirsiniz.   
