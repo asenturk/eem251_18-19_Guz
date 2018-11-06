@@ -1,3 +1,8 @@
+**Önemli:** 7 Aralık Cuma proje konularını belirlemek için son tarihtir. Bu tarihten sonra proje kabul edilmeyecektir.   
+
+2. Öğretim proje sunum tarihleri: 12-19-26 Aralık
+2. Öğretim proje sunum tarihleri: 17-24-31 Aralık
+
 ## SDÜ - ISUBU
 ### Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
 #### 2018-2019 Güz Dönemi EEM251 **İleri Düzey Programlama** Dersi
