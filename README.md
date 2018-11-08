@@ -1,3 +1,11 @@
+**Sınavla İlgili Duyuru:** (08.11.2018)  
+1. öğretim dersi esnasında çıkabilecek sorularla ilgili konuşmuştuk:
+* paskal üçgenini yazdırmanın mantığı nasıldır.
+* iç içe döngülerin kullanımı
+* sayıları sağa yaslayarak yazdırma (%5d gibi)
+Bu konulardan soru çıkabilir.
+
+
 **Önemli:** (06.11.2018)   
 7 Aralık Cuma proje konularını belirlemek için son tarihtir. Bu tarihten sonra proje kabul edilmeyecektir.   
 
