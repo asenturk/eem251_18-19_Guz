@@ -1,6 +1,6 @@
 (Bu komutları yazdığınızda eem251_ders01.ipynb dosyasındaki sonuçları göreceksiniz.)
 
-Hüzre Markdown modunda iken notlarımızı alabiliriz.
+Hücre Markdown modunda iken notlarımızı alabiliriz.
 
 # Bu dersimizde Python programlama dilini göreceğiz
 ## Daha kucuk başlık
