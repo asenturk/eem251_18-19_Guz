@@ -1,5 +1,6 @@
 **Sinav Bilgilendirme** (10.11.2018)   
 Sınavda 6 soru vardır. Sınav süresi 60 dakika. Soruların zor değil. Derste vermiş olduğumuz örnekleri iyi anlarsanız yüksek notlar alabilirsiniz.
+Sorular markdown, liste, string, dosya okuma, dosya listeleme, düzenli ifadeler konularına odaklanmıştır.
 
 Sınav derslikleri güncellenmiş sanırım. 1. Öğretim: 103-203-BLAB, 2. Öğretim: 1004-BLAB
 
