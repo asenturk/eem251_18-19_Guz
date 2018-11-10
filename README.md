@@ -1,3 +1,10 @@
+**Sinav Bilgilendirme** (10.11.2018)   
+Sınavda 6 soru vardır. Sınav süresi 60 dakika. Soruların zor değil. Derste vermiş olduğumuz örnekleri iyi anlarsanız yüksek notlar alabilirsiniz.
+
+Sınav derslikleri güncellenmiş sanırım. 1. Öğretim: 103-203-BLAB, 2. Öğretim: 1004-BLAB
+
+
+
 **Sınavla İlgili Duyuru:** (08.11.2018)  
 1. öğretim dersi esnasında çıkabilecek sorularla ilgili konuşmuştuk:
 * paskal üçgenini yazdırmanın mantığı nasıldır.
