@@ -1,10 +1,28 @@
+**Proje Bilgilendirme:** (12.11.2018)   
+Aşağıda verilen örnek projeler haricinde yapmayı düşündüğünüz projeyi öncelikle sözlü olarak beyan etmeniz gerekmektedir. Daha sonra proje konunuzu mail ile asntrk@gmail.com adresime göndermeniz gerekiyor.
+
+Arasınavdan sonra gelen sorulardan dolayı tekrar bilgilendirelim:   
+Dersin tüm notu şu şekilde verilecektir. %25 Arasınav, %25 Proje, %50 Final Sınavı   
+
+
+
+---
+
+**Önemli:** (06.11.2018)   
+7 Aralık Cuma proje konularını belirlemek için son tarihtir. Bu tarihten sonra proje kabul edilmeyecektir.   
+
+1. Öğretim proje sunum tarihleri: 12-19-26 Aralık
+2. Öğretim proje sunum tarihleri: 17-24-31 Aralık
+
+---
+
 **Sinav Bilgilendirme** (10.11.2018)   
 Sınavda 6 soru vardır. Sınav süresi 60 dakika. Soruların zor değil. Derste vermiş olduğumuz örnekleri iyi anlarsanız yüksek notlar alabilirsiniz.
 Sorular markdown, liste, string, dosya okuma, dosya listeleme, düzenli ifadeler konularına odaklanmıştır.
 
 Sınav derslikleri güncellenmiş sanırım. 1. Öğretim: 103-203-BLAB, 2. Öğretim: 1004-BLAB
 
-
+---
 
 **Sınavla İlgili Duyuru:** (08.11.2018)  
 1. öğretim dersi esnasında çıkabilecek sorularla ilgili konuşmuştuk:
@@ -13,12 +31,6 @@ Sınav derslikleri güncellenmiş sanırım. 1. Öğretim: 103-203-BLAB, 2. Öğ
 * sayıları sağa yaslayarak yazdırma (%5d gibi)
 Bu konulardan soru çıkabilir.
 
-
-**Önemli:** (06.11.2018)   
-7 Aralık Cuma proje konularını belirlemek için son tarihtir. Bu tarihten sonra proje kabul edilmeyecektir.   
-
-1. Öğretim proje sunum tarihleri: 12-19-26 Aralık
-2. Öğretim proje sunum tarihleri: 17-24-31 Aralık
 
 ---
 Örnek Proje Konuları (24.10.2018):
