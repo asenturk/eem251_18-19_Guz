@@ -1,10 +1,15 @@
+**Sınav itiraz:** (20.11.2018)
+Sınav notlarınıda büyük ihtimalle hata yoktur ama çok yüksek not beklediğiniz halde çok düşük aldığınızı düşünüyorsanız sıra numaranızı söylemeniz durumunda sınav kağıdınız tekrar kontrol edilecektir.
+
+Sıra numaralarınıza aşağıda verilen sayfadan ulaşabilirsiniz:   
+https://github.com/asenturk/eem251/tree/master/sinif_listeleri   
+
+
 **Proje Bilgilendirme:** (12.11.2018)   
 Aşağıda verilen örnek projeler haricinde yapmayı düşündüğünüz projeyi öncelikle sözlü olarak beyan etmeniz gerekmektedir. Daha sonra proje konunuzu mail ile asntrk@gmail.com adresime göndermeniz gerekiyor.
 
 Arasınavdan sonra gelen sorulardan dolayı tekrar bilgilendirelim:   
 Dersin tüm notu şu şekilde verilecektir. %25 Arasınav, %25 Proje, %50 Final Sınavı   
-
-
 
 ---
 
