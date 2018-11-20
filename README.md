@@ -5,6 +5,8 @@ Sıra numaralarınıza aşağıda verilen sayfadan ulaşabilirsiniz:
 https://github.com/asenturk/eem251/tree/master/sinif_listeleri   
 
 
+---
+
 **Proje Bilgilendirme:** (12.11.2018)   
 Aşağıda verilen örnek projeler haricinde yapmayı düşündüğünüz projeyi öncelikle sözlü olarak beyan etmeniz gerekmektedir. Daha sonra proje konunuzu mail ile asntrk@gmail.com adresime göndermeniz gerekiyor.
 
