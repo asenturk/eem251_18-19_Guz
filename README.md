@@ -1,8 +1,8 @@
-**Sınav itiraz:** (20.11.2018)
-Yüksek not beklediğiniz halde düşük aldığınızı düşünüyorsanız sınav kağıtlarınızı aşağıdaki tarihler arasıda kontrol edebilirsiniz.
+**Sınav itiraz:** (21.11.2018)
+Yüksek not beklediğiniz halde düşük aldığınızı düşünüyorsanız sınav kağıtlarınızı aşağıdaki tarihler arasıda kontrol edebilirsiniz.   
 Başlama: 26.11.2018   
 Son gün: 30.11.2018   
-Kontrol için geldiğinizde   
+Kontrol için geldiğinizde:  
 1. Ders adı
 2. 1 veya 2. öğretim
 3. yoklama sıra numaranızı söylemeniz gereklidir.
