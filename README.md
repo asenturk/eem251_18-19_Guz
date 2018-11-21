@@ -1,8 +1,17 @@
 **Sınav itiraz:** (20.11.2018)
-Sınav notlarınıda büyük ihtimalle hata yoktur ama çok yüksek not beklediğiniz halde çok düşük aldığınızı düşünüyorsanız sıra numaranızı söylemeniz durumunda sınav kağıdınız tekrar kontrol edilecektir.
+Yüksek not beklediğiniz halde düşük aldığınızı düşünüyorsanız sınav kağıtlarınızı aşağıdaki tarihler arasıda kontrol edebilirsiniz.
+Başlama: 26.11.2018   
+Son gün: 30.11.2018   
+Kontrol için geldiğinizde   
+1. Ders adı
+2. 1 veya 2. öğretim
+3. yoklama sıra numaranızı söylemeniz gereklidir.
 
 Sıra numaralarınıza aşağıda verilen sayfadan ulaşabilirsiniz:   
-https://github.com/asenturk/eem251/tree/master/sinif_listeleri   
+https://github.com/asenturk/eem251/tree/master/sinif_listeleri 
+
+Sınav sorularının çözümleri:   
+https://github.com/asenturk/eem251/blob/master/ornekler/eem251_ders08_arasinav_cozumler.ipynb 
 
 
 ---
