@@ -1,3 +1,10 @@
+**Ödev 1** (27.11.2018)   
+Ödev 1 eklenmiştir. Odevinizin asntrk@gmail.com adresine belirtilen formatta göndermeniz gerekmtekdir. 
+
+Son tarih: 02.12.2018
+
+---
+
 **Sınav itiraz:** (21.11.2018)
 Yüksek not beklediğiniz halde düşük aldığınızı düşünüyorsanız sınav kağıtlarınızı aşağıdaki tarihler arasıda kontrol edebilirsiniz.   
 Başlama: 26.11.2018   
