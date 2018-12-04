@@ -11,7 +11,10 @@ Lütfen proje önerilerinizi eposta konusuna "eem251 proje konusu" yazarak gönd
 1. Öğretim: https://docs.google.com/spreadsheets/d/1jbWivKtkC4FXP_fjqWA2xtBfToLvyHHxwuBLF0h79Ls/edit?usp=sharing
 2. Öğretim: https://docs.google.com/spreadsheets/d/14XNfrLnLMQBISy9LWiatfVhe0td8yD0K0ZC6HLgrMU0/edit?usp=sharing
 
+----
 
+**Ödev 2** (05.12.2018)    
+Ödev 2 eklenmiştir. Göndermek için son tarih: 9 Aralık 2018 Pazar.
 
 ---
 
