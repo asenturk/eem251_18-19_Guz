@@ -1,3 +1,20 @@
+**Proje Konuları ve Bilgilendirme** (05.12.2018)   
+Proje konuları kabul edilenler aşağıda bağlantısı verilen dokümanda gösterilmektedir. Herhangi bir eksik veya yanlış olduğunu düşünüyorsanız lütfen en kısa sürede bilgilendirin.   
+Projelerin sunum sıraları karışık olacak ve gününde yapılamayan sunumlar sonraki haftalarda yapılamayacaktır.   
+Proje sunumları başlamadan önce herkesin projesini tamamlamış ve raporunu belirtilen formatta eposta ile göndermiş olması gerekmektedir.   
+Proje raporunun formatı Ödev formatına çok benzeycektir. Daha sonra kesinleştirilecektir.   
+Projeniz değerlendirilirken birden fazla kriter göz önüne alınacaktır. Kriterlerin neler olduğu ilan edilecektir.   
+Proje sunum haftalarında, sunumlar bittiğinde yeterli zaman kalırsa arduino anlatılacaktır.    
+6-7 Aralık tarihlerinde şehir dışında olacağım için proje önerilerinizi eposta ile gönderebilirsiniz. Bu önerilerin uygun olup olmadıkları 8-9 Aralık tarihinde değerlendirilecektir.    
+Lütfen proje önerilerinizi eposta konusuna "eem251 proje konusu" yazarak gönderin. Bu şekilde hatalar daha az olacaktır. Epostanın içeriğinde ad soyad numara ve 1 veya 2. öğretim olduğunuzu yazmayı unutmayın.     
+ 
+1. Öğretim: https://docs.google.com/spreadsheets/d/1jbWivKtkC4FXP_fjqWA2xtBfToLvyHHxwuBLF0h79Ls/edit?usp=sharing
+2. Öğretim: https://docs.google.com/spreadsheets/d/14XNfrLnLMQBISy9LWiatfVhe0td8yD0K0ZC6HLgrMU0/edit?usp=sharing
+
+
+
+---
+
 **Ödev 1** (27.11.2018)   
 Ödev 1 eklenmiştir. Odevinizin asntrk@gmail.com adresine belirtilen formatta göndermeniz gerekmtekdir. 
 
