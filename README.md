@@ -1,3 +1,17 @@
+**Kabul Edilen Projeler** (08.12.2018)   
+Projelerin kabul edilme durumlarını gösteren (05.12.2018) tarihli duyuruda verilen listeler güncellenmiştir.   
+Proje konusu gönderip kabul edilmeyenlere dönüş yapılmıştır.   
+Bu dokümanlarda eksik veya yanlışlık olduğunu düşünüyorsanız lütfen beni bilgilendirin.   
+
+
+Proje başvuru sayısından dolayı sunum tarihleri şu şekilde güncellenmiştir:      
+1. Öğretim proje sunum tarihleri: 19-26 Aralık
+2. Öğretim proje sunum tarihleri: 17-24 Aralık
+
+Proje rapor teslim tarihi ve rapor formatı daha sonra belirlenecektir.
+
+---
+
 **Proje Konuları ve Bilgilendirme** (05.12.2018)   
 Proje konuları kabul edilenler aşağıda bağlantısı verilen dokümanda gösterilmektedir. Herhangi bir eksik veya yanlış olduğunu düşünüyorsanız lütfen en kısa sürede bilgilendirin.   
 Projelerin sunum sıraları karışık olacak ve gününde yapılamayan sunumlar sonraki haftalarda yapılamayacaktır.   
@@ -55,7 +69,10 @@ Dersin tüm notu şu şekilde verilecektir. %25 Arasınav, %25 Proje, %50 Final 
 7 Aralık Cuma proje konularını belirlemek için son tarihtir. Bu tarihten sonra proje kabul edilmeyecektir.   
 
 1. Öğretim proje sunum tarihleri: 12-19-26 Aralık
-2. Öğretim proje sunum tarihleri: 17-24-31 Aralık
+2. Öğretim proje sunum tarihleri: 17-24-31 Aralık  
+
+Bu tarihler güncellenmiştir.
+
 
 ---
 
