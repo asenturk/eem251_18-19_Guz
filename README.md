@@ -1,3 +1,24 @@
+**Proje Sunum ve raporları** (12.12.2018)    
+Proje *sunum tarihlerine* ve *rapor formatına* aşağıdaki bağlantıdan ulaşabilirsiniz.   
+https://github.com/asenturk/eem251/tree/master/proje
+
+Bu dokümanda hata olduğunu düşünüyorsanız lütfen iletişime geçin.
+
+
+1. Öğretim tüm raporların 19 Aralık Çarşamba 09:00'dan   
+2. Öğretim tüm raporların 17 Aralık Pazartesi 15:00'dan önce yüklenmesi gerekmektedir.
+Belirtilen tarihten sonra  yüklenen raporlar değerlendirmeye alınmayacaktır.
+
+Proje Yükleme Sayfası 1. Öğretim:   
+https://docs.google.com/forms/d/1QmbVoBaU0hUi9VmELEb7lo7iZD42VwFfuLOXftOK7tU/edit?usp=sharing   
+
+Proje Yükleme Sayfası 2. Öğretim:      
+https://docs.google.com/forms/d/1mcbgT51Aqkfws1ksPPgRC7bfiOlZw2rwL9yIpR4_tdE/edit?usp=sharing
+
+
+
+---
+
 **Kabul Edilen Projeler** (08.12.2018)   
 Projelerin kabul edilme durumlarını gösteren (05.12.2018) tarihli duyuruda verilen listeler güncellenmiştir.   
 Proje konusu gönderip kabul edilmeyenlere dönüş yapılmıştır.   
