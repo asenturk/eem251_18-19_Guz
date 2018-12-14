@@ -17,7 +17,7 @@ Proje+Sunum (50 puan):
 a. Sunum sırasında projenizi doğru bir şekilde anlatmanız ve soruları anlaşılır ve doğru bir şekilde cevaplamanız. (20 puan)
 b. Projenizin zorluğu + projeyi başarıyla tamamlanması miktarı (30 puan)
 
-
+Sunum derslerinde yoklama alınacaktır.
 
 ---
 
