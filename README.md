@@ -1,3 +1,13 @@
+Ödev 3 (20.12.2018)
+
+Ödev 3 https://github.com/asenturk/eem251/tree/master/odev adresine eklenmiştir.   
+Ödev 3'ü aşağıda adresi verilen forma yükleyiniz:   
+
+https://docs.google.com/forms/d/1gz7rOU0suI0c--vIG7LVhGJlpEdYxF-dSZFbUqAa8mU/edit?usp=sharing
+
+Ödev yükleme için son tarih: 25 Aralık 2018 Salı.
+---
+
 Proje Sunumları (14.12.2018)
 
     Sunumlar için herkesin yaklaşık 5 dakika süresi bulunmaktadır.
