@@ -1,3 +1,9 @@
+**Ödev 3 gönderim tarihi uzatma** (27.12.2018)   
+Ödev gönderim süresi 28.12.2018 tarihi son gün olmak üzere uzatılmıştır.
+
+---
+
+
 **Ödev 3** (20.12.2018)
 
 Ödev 3 https://github.com/asenturk/eem251/tree/master/odev adresine eklenmiştir.   
