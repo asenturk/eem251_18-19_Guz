@@ -1,3 +1,14 @@
+**Final Sınavı** (11.01.2019)  
+Final sınavında 6 soru bulunmaktadır.  
+Sorulardan 3 tanesi raspberrypi haftasında anlatılan konulardan çıkacaktr.   
+Diğer soruların bir tanesi dosya okuma yazma, bir tanesi, düzenli ifadeler, bir tanesi de grafik çizdrime ile ilgilidir.  
+Sorulardan düzenli ifadelerle ilgili olan soru biraz zor, diğer sorular ise kolaydır.  
+Soruların ana odak noktaları bu şekilde olsa da diğer döngüler, if-else yapısı gibi konuları bilmeniz gerekebilir.
+Kolay gelsin.
+
+
+---
+
 **Ödev 3 gönderim tarihi uzatma** (27.12.2018)   
 Ödev gönderim süresi 28.12.2018 tarihi son gün olmak üzere uzatılmıştır.
 
