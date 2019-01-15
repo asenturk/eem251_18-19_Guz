@@ -1,8 +1,10 @@
 **Final Sınavı Sonuçları** (16.01.2019)   
-Final sınavı sonuçlarına aşağıdaki bağlantılardan ulaşabilirsiniz.   
+Final sınavı sonuçlarına aşağıdaki bağlantıdan ulaşabilirsiniz.   
 Sınav kağıtlarınızı 18.01.2019 Cuma saat 12:00'dan önce kontrol edebilirsiniz.   
 
 https://github.com/asenturk/eem251/tree/master/final
+
+---
 
 
 **Final Sınavı** (11.01.2019)  
