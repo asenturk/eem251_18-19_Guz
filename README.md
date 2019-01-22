@@ -1,3 +1,17 @@
+**Bütünleme Sınavı** (22.01.2019)  
+
+Final sınavında 5 soru bulunmaktadır, süre 60 dakikadır. 
+Bütünleme sınavında final sınavında çıkan konular ağırlığı oluşturmaktadır.   
+Rastgele tam sayı oluşturmanın nasıl olacağını gözden geçirmeniz tavsiye edilir.   
+Soruların bazıları finale göre biraz daha zor bazıları ise biraz daha kolaydır.   
+Soruları yapabilmek için programlamanın temel konularından olan  döngüler, if-else yapısı,listeler gibi  konuları bilmeniz gerekebilir.  
+Kolay gelsin.
+Sorular son halini aldığında gerekirse bu duyuru tekrar düzenlenecektir.
+
+
+---
+
+
 **Final Sınavı Sonuçları** (16.01.2019)   
 Final sınavı sonuçlarına aşağıdaki bağlantıdan ulaşabilirsiniz.   
 Sınav kağıtlarınızı 18.01.2019 Cuma saat 12:00'dan önce kontrol edebilirsiniz.   
