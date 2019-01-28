@@ -1,3 +1,13 @@
+**Bütünleme Sınavı Sonuçları** (28.01.2019)   
+Bütünleme sınavı sonuçlarına aşağıdaki bağlantıdan ulaşabilirsiniz.   
+Sınav kağıtlarınızı 30.01.2019 Çarşamba son gün  olmak üzere kontrol edebilirsiniz.   
+
+https://github.com/asenturk/eem251/tree/master/butunleme
+
+---
+
+
+
 **Bütünleme Sınavı** (22.01.2019)  
 
 Final sınavında 5 soru bulunmaktadır.
